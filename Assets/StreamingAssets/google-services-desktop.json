@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428663510064",
+    "project_id": "benjamin-s-presentation-test",
+    "storage_bucket": "benjamin-s-presentation-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428663510064:android:9ecba8339390d50f22c9f5",
+        "android_client_info": {
+          "package_name": "com.presentationcompany.Benjaminstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428663510064-5k9kbbkv2bpctg2218uq0n33mu13em43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.presentationcompany.Benjaminstest",
+            "certificate_hash": "df962b7b0855a4328a94d82d315d7dcb949a1878"
+          }
+        },
+        {
+          "client_id": "428663510064-82n3bp0jsgr5c2fb6qmikor8ul11p9ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB73qzMBIuQSN-LNR5LK_wxTWpa_jFPg1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428663510064-82n3bp0jsgr5c2fb6qmikor8ul11p9ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
